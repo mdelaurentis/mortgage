@@ -1,0 +1,8 @@
+[package]
+name = "mortgage"
+version = "0.1.0"
+authors = ["Mike DeLaurentis <mdelaurentis@rjmetrics.com>"]
+
+[dependencies]
+getopts = "0.2"
+regex = "0.2"
